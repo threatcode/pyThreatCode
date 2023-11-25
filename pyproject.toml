@@ -35,7 +35,7 @@ pre-commit = "^3.3.3"
 pylint = "^2.15.7"
 pytest = "^6.2.2"
 pytest-cov = "^4.1.0"
-pytest-mypy = "^0.6.2"
+pytest-mypy = "^0.10.3"
 Sphinx = "^4.2.0"
 
 [tool.black]
