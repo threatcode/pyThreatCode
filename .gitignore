@@ -1,0 +1,8 @@
+.coverage*
+.vscode/
+**/__pycache__
+cov.xml
+dist/
+docs/_build
+coverage.xml
+.python-version
